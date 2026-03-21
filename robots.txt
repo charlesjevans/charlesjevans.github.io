@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vnews.local/sitemap.xml
-Sitemap: https://vnews.local/news-sitemap.xml
+Sitemap: https://venturabuzz.com/sitemap.xml
+Sitemap: https://venturabuzz.com/news-sitemap.xml
