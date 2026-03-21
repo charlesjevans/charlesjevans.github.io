@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vnews.local/sitemap.xml
+Sitemap: https://vnews.local/news-sitemap.xml
