@@ -276,6 +276,18 @@
     "editor_summary": "The article provides accurate details about the upcoming Ventura City Council meeting, including the date, time, location, and a link for more information. It is clear and neutral, but could include additional context about the agenda or topics to be discussed."
   },
   {
+    "article_id": "20260519T170000_city-council-closed-session-regular-meeting",
+    "url": "https://venturabuzz.com/20260519T170000_city-council-closed-session-regular-meeting/",
+    "headline": "Ventura City Council to Hold Closed Session and Regular Meeting",
+    "body": "The Ventura City Council will convene for a closed session and regular meeting on May 19, 2026, starting at 5:00 PM at the City Council Chambers, 501 Poli St., Ventura, CA 93001. The council typically meets twice a month on Tuesdays. The agenda for this meeting will include discussions on local development projects and community safety initiatives. For more details, visit the city’s official calendar.",
+    "start": "2026-05-19 05:00 PM -07:00",
+    "location": "City Council Chambers - 501 Poli St.  Ventura CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6197",
+    "source_id": "ventura_city_calendar",
+    "editor_decision": "approve",
+    "editor_summary": "The article provides accurate details about the upcoming Ventura City Council meeting, including time, location, and agenda topics, making it relevant and clear for local residents."
+  },
+  {
     "article_id": "20260512T170000_city-council-closed-session-regular-meeting",
     "url": "https://venturabuzz.com/20260512T170000_city-council-closed-session-regular-meeting/",
     "headline": "Ventura City Council to Hold Closed Session and Regular Meeting",
