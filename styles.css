@@ -124,26 +124,24 @@ li {
 .card-title {
   font-weight: 600;
   margin-bottom: 0.2rem;
+  color: #111827;
 }
 
 .event-meta {
-  color: #6b7280;
+  color: #475569;
   font-size: 0.95rem;
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.2rem;
 }
 
 .event-location {
-  color: #4b5563;
+  color: #64748b;
   font-size: 0.92rem;
-  line-height: 1.4;
 }
 
-article p {
-  margin: 0 0 1rem 0;
-}
-
-hr {
-  margin: 2rem 0;
-  border: 0;
-  border-top: 1px solid #ccc;
+article {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-radius: 14px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+  padding: 1.2rem 1.1rem;
 }
