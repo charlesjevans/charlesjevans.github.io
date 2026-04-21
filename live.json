@@ -1,0 +1,80 @@
+[
+  {
+    "article_id": "20260423T160000_finance-audit-budget-committee-special-meeting",
+    "url": "https://venturabuzz.com/20260423T160000_finance-audit-budget-committee-special-meeting/",
+    "headline": "Finance, Audit & Budget Committee Special Meeting Scheduled",
+    "body": "Finance, Audit & Budget Committee Special Meeting is scheduled for April 23, 2026 at 4:00 PM at Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-04-23 04:00 PM -07:00",
+    "location": "Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6821",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260422T190000_college-area-community-council",
+    "url": "https://venturabuzz.com/20260422T190000_college-area-community-council/",
+    "headline": "College Area Community Council",
+    "body": "College Area Community Council is scheduled for April 22, 2026 at 7:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-04-22 07:00 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=4129",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260422T173000_planning-commission-meeting",
+    "url": "https://venturabuzz.com/20260422T173000_planning-commission-meeting/",
+    "headline": "Planning Commission Meeting Scheduled",
+    "body": "Planning Commission Meeting is scheduled for April 22, 2026 at 5:30 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-04-22 05:30 PM -07:00",
+    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6256",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260422T113000_fair-housing-forum-equity-on-the-coast",
+    "url": "https://venturabuzz.com/20260422T113000_fair-housing-forum-equity-on-the-coast/",
+    "headline": "Fair Housing Forum: Equity on the Coast Scheduled",
+    "body": "Fair Housing Forum: Equity on the Coast is scheduled for April 22, 2026 at 11:30 AM at Museum of Ventura County 100 E. Main Street Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-04-22 11:30 AM -07:00",
+    "location": "Museum of Ventura County 100 E. Main Street Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6817",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260421T160000_regular-meeting",
+    "url": "https://venturabuzz.com/20260421T160000_regular-meeting/",
+    "headline": "Regular Meeting Scheduled",
+    "body": "Regular Meeting is scheduled for April 21, 2026 at 4:00 PM at Ventura Avenue Adult Center 550 N. Ventura Avenue Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-04-21 04:00 PM -07:00",
+    "location": "Ventura Avenue Adult Center 550 N. Ventura Avenue Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6191",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260421T093000_housing-rights-center-hrc-office-hours",
+    "url": "https://venturabuzz.com/20260421T093000_housing-rights-center-hrc-office-hours/",
+    "headline": "Housing Rights Center (HRC) Office Hours Scheduled",
+    "body": "Housing Rights Center (HRC) Office Hours is scheduled for April 21, 2026 at 9:30 AM at Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m.",
+    "start": "2026-04-21 09:30 AM -07:00",
+    "location": "Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m. – 1:00 p.m. Room 124 – Community Development Conference Room from 1:00 p.m. – 5:00 p.m, 501 Poli Street Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6024",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  }
+]
