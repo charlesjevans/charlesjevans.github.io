@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T08:00:39Z",
+  "generated_at": "2026-04-21T09:01:27Z",
   "runtime_mode": "live_runtime",
   "publish_window_days": 6,
   "pipeline": {
@@ -29,7 +29,7 @@
     }
   },
   "last_run": {
-    "run_at": "2026-04-21T08:00:39Z",
+    "run_at": "2026-04-21T09:01:27Z",
     "mode": "live_fetch",
     "status": "success",
     "notes": [
@@ -68,6 +68,16 @@
       ],
       "fetch_mode": "live_fetch",
       "strict_health": false
+    },
+    {
+      "run_at": "2026-04-21T09:01:27Z",
+      "mode": "live_fetch",
+      "status": "success",
+      "notes": [
+        "Fetch completed successfully."
+      ],
+      "fetch_mode": "live_fetch",
+      "strict_health": false
     }
   ],
   "sources": [
@@ -82,12 +92,12 @@
       "fetched_count": 2,
       "normalized_count": 2,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-04-21T08:00:02Z",
-      "last_fetch_at_display": "2026-04-21 08:00 AM UTC",
-      "last_fetch_attempt_at": "2026-04-21T08:00:02Z",
-      "last_fetch_attempt_at_display": "2026-04-21 08:00 AM UTC",
-      "last_normalize_at": "2026-04-21T08:00:02Z",
-      "last_normalize_at_display": "2026-04-21 08:00 AM UTC",
+      "last_fetch_at": "2026-04-21T09:00:45Z",
+      "last_fetch_at_display": "2026-04-21 09:00 AM UTC",
+      "last_fetch_attempt_at": "2026-04-21T09:00:45Z",
+      "last_fetch_attempt_at_display": "2026-04-21 09:00 AM UTC",
+      "last_normalize_at": "2026-04-21T09:00:45Z",
+      "last_normalize_at_display": "2026-04-21 09:00 AM UTC",
       "last_fetch_error": "",
       "warnings": []
     },
@@ -101,13 +111,13 @@
       "normalized_json": 6,
       "fetched_count": 7,
       "normalized_count": 6,
-      "fetch_attempts": 1,
-      "last_fetch_at": "2026-04-21T08:00:02Z",
-      "last_fetch_at_display": "2026-04-21 08:00 AM UTC",
-      "last_fetch_attempt_at": "2026-04-21T08:00:02Z",
-      "last_fetch_attempt_at_display": "2026-04-21 08:00 AM UTC",
-      "last_normalize_at": "2026-04-21T08:00:02Z",
-      "last_normalize_at_display": "2026-04-21 08:00 AM UTC",
+      "fetch_attempts": 2,
+      "last_fetch_at": "2026-04-21T09:00:43Z",
+      "last_fetch_at_display": "2026-04-21 09:00 AM UTC",
+      "last_fetch_attempt_at": "2026-04-21T09:00:43Z",
+      "last_fetch_attempt_at_display": "2026-04-21 09:00 AM UTC",
+      "last_normalize_at": "2026-04-21T09:00:45Z",
+      "last_normalize_at_display": "2026-04-21 09:00 AM UTC",
       "last_fetch_error": "",
       "warnings": []
     }
