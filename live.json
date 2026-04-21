@@ -13,6 +13,19 @@
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   },
   {
+    "article_id": "20260423T093000_housing-rights-center-hrc-office-hours",
+    "url": "https://venturabuzz.com/20260423T093000_housing-rights-center-hrc-office-hours/",
+    "headline": "Housing Rights Center (HRC) Office Hours Scheduled",
+    "body": "Housing Rights Center (HRC) Office Hours is scheduled for April 23, 2026 at 9:30 AM at Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m.",
+    "start": "2026-04-23 09:30 AM -07:00",
+    "location": "Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m. – 1:00 p.m. Room 124 – Community Development Conference Room from 1:00 p.m. – 5:00 p.m, 501 Poli Street Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6025",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260422T190000_college-area-community-council",
     "url": "https://venturabuzz.com/20260422T190000_college-area-community-council/",
     "headline": "College Area Community Council",
@@ -59,19 +72,6 @@
     "start": "2026-04-21 04:00 PM -07:00",
     "location": "Ventura Avenue Adult Center 550 N. Ventura Avenue Ventura, CA 93001",
     "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6191",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260421T093000_housing-rights-center-hrc-office-hours",
-    "url": "https://venturabuzz.com/20260421T093000_housing-rights-center-hrc-office-hours/",
-    "headline": "Housing Rights Center (HRC) Office Hours Scheduled",
-    "body": "Housing Rights Center (HRC) Office Hours is scheduled for April 21, 2026 at 9:30 AM at Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m.",
-    "start": "2026-04-21 09:30 AM -07:00",
-    "location": "Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m. – 1:00 p.m. Room 124 – Community Development Conference Room from 1:00 p.m. – 5:00 p.m, 501 Poli Street Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6024",
     "source_id": "ventura_main_calendar",
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
