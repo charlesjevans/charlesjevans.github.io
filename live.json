@@ -63,18 +63,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260422T113000_fair-housing-forum-equity-on-the-coast",
-    "url": "https://venturabuzz.com/20260422T113000_fair-housing-forum-equity-on-the-coast/",
-    "headline": "Fair Housing Forum: Equity on the Coast Scheduled",
-    "body": "Fair Housing Forum: Equity on the Coast is scheduled for April 22, 2026 at 11:30 AM at Museum of Ventura County 100 E. Main Street Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-04-22 11:30 AM -07:00",
-    "location": "Museum of Ventura County 100 E. Main Street Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6817",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
