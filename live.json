@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260427T173000_water-commission-regular-meeting",
+    "url": "https://venturabuzz.com/20260427T173000_water-commission-regular-meeting/",
+    "headline": "Water Commission Regular Meeting Scheduled",
+    "body": "Water Commission Regular Meeting is scheduled for April 27, 2026 at 5:30 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-04-27 05:30 PM -07:00",
+    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6167",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260423T160000_finance-audit-budget-committee-special-meeting",
     "url": "https://venturabuzz.com/20260423T160000_finance-audit-budget-committee-special-meeting/",
     "headline": "Finance, Audit & Budget Committee Special Meeting Scheduled",
@@ -59,19 +72,6 @@
     "start": "2026-04-22 11:30 AM -07:00",
     "location": "Museum of Ventura County 100 E. Main Street Ventura, CA 93001",
     "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6817",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260421T160000_regular-meeting",
-    "url": "https://venturabuzz.com/20260421T160000_regular-meeting/",
-    "headline": "Regular Meeting Scheduled",
-    "body": "Regular Meeting is scheduled for April 21, 2026 at 4:00 PM at Ventura Avenue Adult Center 550 N. Ventura Avenue Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-04-21 04:00 PM -07:00",
-    "location": "Ventura Avenue Adult Center 550 N. Ventura Avenue Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6191",
     "source_id": "ventura_main_calendar",
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
