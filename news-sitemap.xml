@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://venturabuzz.com/20260423T093000_housing-rights-center-hrc-office-hours/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ventura Buzz</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-04-23T09:30:00-07:00</news:publication_date>
-      <news:title>20260423T093000 housing rights center hrc office hours</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://venturabuzz.com/20260423T160000_finance-audit-budget-committee-special-meeting/</loc>
     <news:news>
       <news:publication>
@@ -32,6 +21,17 @@
       </news:publication>
       <news:publication_date>2026-04-27T17:30:00-07:00</news:publication_date>
       <news:title>20260427T173000 water commission regular meeting</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://venturabuzz.com/20260428T093000_housing-rights-center-hrc-office-hours/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-04-28T09:30:00-07:00</news:publication_date>
+      <news:title>20260428T093000 housing rights center hrc office hours</news:title>
     </news:news>
   </url>
   <url>
