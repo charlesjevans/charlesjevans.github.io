@@ -37,18 +37,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260423T160000_finance-audit-budget-committee-special-meeting",
-    "url": "https://venturabuzz.com/20260423T160000_finance-audit-budget-committee-special-meeting/",
-    "headline": "Finance, Audit & Budget Committee Special Meeting Scheduled",
-    "body": "Finance, Audit & Budget Committee Special Meeting is scheduled for April 23, 2026 at 4:00 PM at Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001. The source did not provide additional background.",
-    "start": "2026-04-23 04:00 PM -07:00",
-    "location": "Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6821",
-    "source_id": "ventura_city_calendar",
-    "source_name": "Ventura City Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
