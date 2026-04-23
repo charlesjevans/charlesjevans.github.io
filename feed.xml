@@ -6,6 +6,13 @@
   <description>Ventura Buzz publication feed</description>
   <language>en-us</language>
   <item>
+    <title>Westside Community Council</title>
+    <link>https://venturabuzz.com/20260506T183000_westside-community-council/</link>
+    <guid>https://venturabuzz.com/20260506T183000_westside-community-council/</guid>
+    <description>Westside Community Council is scheduled for May 6, 2026 at 6:30 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.</description>
+    <pubDate>Wed, 06 May 2026 18:30:00 -0700</pubDate>
+  </item>
+  <item>
     <title>Design Review Committee Meeting Scheduled</title>
     <link>https://venturabuzz.com/20260506T170000_design-review-committee-meeting/</link>
     <guid>https://venturabuzz.com/20260506T170000_design-review-committee-meeting/</guid>
@@ -39,20 +46,6 @@
     <guid>https://venturabuzz.com/20260423T093000_housing-rights-center-hrc-office-hours/</guid>
     <description>Housing Rights Center (HRC) Office Hours is scheduled for April 23, 2026 at 9:30 AM at Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m.</description>
     <pubDate>Thu, 23 Apr 2026 09:30:00 -0700</pubDate>
-  </item>
-  <item>
-    <title>College Area Community Council</title>
-    <link>https://venturabuzz.com/20260422T190000_college-area-community-council/</link>
-    <guid>https://venturabuzz.com/20260422T190000_college-area-community-council/</guid>
-    <description>College Area Community Council is scheduled for April 22, 2026 at 7:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.</description>
-    <pubDate>Wed, 22 Apr 2026 19:00:00 -0700</pubDate>
-  </item>
-  <item>
-    <title>Planning Commission Meeting Scheduled</title>
-    <link>https://venturabuzz.com/20260422T173000_planning-commission-meeting/</link>
-    <guid>https://venturabuzz.com/20260422T173000_planning-commission-meeting/</guid>
-    <description>Planning Commission Meeting is scheduled for April 22, 2026 at 5:30 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.</description>
-    <pubDate>Wed, 22 Apr 2026 17:30:00 -0700</pubDate>
   </item>
 </channel>
 </rss>

@@ -50,31 +50,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260422T190000_college-area-community-council",
-    "url": "https://venturabuzz.com/20260422T190000_college-area-community-council/",
-    "headline": "College Area Community Council",
-    "body": "College Area Community Council is scheduled for April 22, 2026 at 7:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-04-22 07:00 PM -07:00",
-    "location": "Ventura, CA 93002",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=4129",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260422T173000_planning-commission-meeting",
-    "url": "https://venturabuzz.com/20260422T173000_planning-commission-meeting/",
-    "headline": "Planning Commission Meeting Scheduled",
-    "body": "Planning Commission Meeting is scheduled for April 22, 2026 at 5:30 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.",
-    "start": "2026-04-22 05:30 PM -07:00",
-    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6256",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
