@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260512T170000_city-council-closed-session-regular-meeting",
+    "url": "https://venturabuzz.com/20260512T170000_city-council-closed-session-regular-meeting/",
+    "headline": "City Council Meeting Scheduled",
+    "body": "City Council Meeting is scheduled for May 12, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-05-12 05:00 PM -07:00",
+    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6196",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260511T160000_director-s-hearing-special-meeting-date",
     "url": "https://venturabuzz.com/20260511T160000_director-s-hearing-special-meeting-date/",
     "headline": "Director's Hearing - Special Meeting Date Scheduled",

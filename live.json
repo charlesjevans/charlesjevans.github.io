@@ -11,18 +11,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260428T170000_city-council-closed-session-regular-meeting",
-    "url": "https://venturabuzz.com/20260428T170000_city-council-closed-session-regular-meeting/",
-    "headline": "City Council Meeting Scheduled",
-    "body": "City Council Meeting is scheduled for April 28, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-04-28 05:00 PM -07:00",
-    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6195",
-    "source_id": "ventura_city_calendar",
-    "source_name": "Ventura City Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
