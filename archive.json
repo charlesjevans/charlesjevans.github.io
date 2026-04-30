@@ -78,6 +78,19 @@
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   },
   {
+    "article_id": "20260504T173000_measure-o-citizens-oversight-committee-regular-meeting",
+    "url": "https://venturabuzz.com/20260504T173000_measure-o-citizens-oversight-committee-regular-meeting/",
+    "headline": "Measure O Citizens Oversight Committee - Regular Meeting Scheduled",
+    "body": "Measure O Citizens Oversight Committee - Regular Meeting is scheduled for May 4, 2026 at 5:30 PM at Ventura, CA 93002. The source did not provide additional background.",
+    "start": "2026-05-04 05:30 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6922",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260430T093000_housing-rights-center-hrc-office-hours",
     "url": "https://venturabuzz.com/20260430T093000_housing-rights-center-hrc-office-hours/",
     "headline": "Housing Rights Center (HRC) Office Hours Scheduled",
