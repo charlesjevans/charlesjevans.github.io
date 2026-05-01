@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260514T180000_midtown-community-council",
+    "url": "https://venturabuzz.com/20260514T180000_midtown-community-council/",
+    "headline": "Midtown Community Council",
+    "body": "Midtown Community Council is scheduled for May 14, 2026 at 6:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-05-14 06:00 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=4091",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260514T160000_historic-preservation-committee-meeting-cancelled",
     "url": "https://venturabuzz.com/20260514T160000_historic-preservation-committee-meeting-cancelled/",
     "headline": "Historic Preservation Committee Meeting - Cancelled",
@@ -87,6 +100,19 @@
     "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6089",
     "source_id": "ventura_main_calendar",
     "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260505T150000_2026-05-05-reviewing-city-council-standing-committees-committee",
+    "url": "https://venturabuzz.com/20260505T150000_2026-05-05-reviewing-city-council-standing-committees-committee/",
+    "headline": "2026-05-05 Reviewing City Council Standing Committees Committee",
+    "body": "2026-05-05 Reviewing City Council Standing Committees Committee is scheduled for May 5, 2026 at 3:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-05-05 03:00 PM -07:00",
+    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6923",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   },
