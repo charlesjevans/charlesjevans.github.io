@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T15:32:53Z",
+  "generated_at": "2026-05-02T16:59:53Z",
   "runtime_mode": "live_runtime",
   "publish_window_days": 6,
   "pipeline": {
@@ -29,7 +29,7 @@
     }
   },
   "last_run": {
-    "run_at": "2026-05-02T15:32:53Z",
+    "run_at": "2026-05-02T16:59:53Z",
     "mode": "live_fetch",
     "status": "success",
     "notes": [
@@ -39,16 +39,6 @@
     "strict_health": false
   },
   "recent_runs": [
-    {
-      "run_at": "2026-05-02T08:01:06Z",
-      "mode": "live_fetch",
-      "status": "success",
-      "notes": [
-        "Fetch completed successfully."
-      ],
-      "fetch_mode": "live_fetch",
-      "strict_health": false
-    },
     {
       "run_at": "2026-05-02T10:54:47Z",
       "mode": "live_fetch",
@@ -81,6 +71,16 @@
     },
     {
       "run_at": "2026-05-02T15:32:53Z",
+      "mode": "live_fetch",
+      "status": "success",
+      "notes": [
+        "Fetch completed successfully."
+      ],
+      "fetch_mode": "live_fetch",
+      "strict_health": false
+    },
+    {
+      "run_at": "2026-05-02T16:59:53Z",
       "mode": "live_fetch",
       "status": "success",
       "notes": [
