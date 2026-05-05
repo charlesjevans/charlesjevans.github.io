@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260511T160000_director-s-hearing-special-meeting-date",
+    "url": "https://venturabuzz.com/20260511T160000_director-s-hearing-special-meeting-date/",
+    "headline": "Director's Hearing - Special Meeting Date Scheduled",
+    "body": "Director's Hearing - Special Meeting Date is scheduled for May 11, 2026 at 4:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-05-11 04:00 PM -07:00",
+    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6814",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260507T170000_arts-culture-commission-special-meeting",
     "url": "https://venturabuzz.com/20260507T170000_arts-culture-commission-special-meeting/",
     "headline": "Arts & Culture Commission Special Meeting Scheduled",
