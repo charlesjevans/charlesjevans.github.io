@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://venturabuzz.com/20260506T170000_design-review-committee-meeting/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ventura Buzz</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-06T17:00:00-07:00</news:publication_date>
-      <news:title>20260506T170000 design review committee meeting</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://venturabuzz.com/20260506T183000_westside-community-council/</loc>
     <news:news>
       <news:publication>
@@ -54,6 +43,17 @@
       </news:publication>
       <news:publication_date>2026-05-11T16:00:00-07:00</news:publication_date>
       <news:title>20260511T160000 director s hearing special meeting date</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://venturabuzz.com/20260512T170000_city-council-closed-session-regular-meeting/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-12T17:00:00-07:00</news:publication_date>
+      <news:title>20260512T170000 city council closed session regular meeting</news:title>
     </news:news>
   </url>
 </urlset>
