@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://venturabuzz.com/20260512T093000_housing-rights-center-hrc-office-hours/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ventura Buzz</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-05-12T09:30:00-07:00</news:publication_date>
-      <news:title>20260512T093000 housing rights center hrc office hours</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://venturabuzz.com/20260512T170000_city-council-closed-session-regular-meeting/</loc>
     <news:news>
       <news:publication>
@@ -35,6 +24,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://venturabuzz.com/20260514T093000_housing-rights-center-hrc-office-hours/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T09:30:00-07:00</news:publication_date>
+      <news:title>20260514T093000 housing rights center hrc office hours</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://venturabuzz.com/20260514T160000_historic-preservation-committee-meeting-cancelled/</loc>
     <news:news>
       <news:publication>
@@ -43,6 +43,17 @@
       </news:publication>
       <news:publication_date>2026-05-14T16:00:00-07:00</news:publication_date>
       <news:title>20260514T160000 historic preservation committee meeting cancelled</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://venturabuzz.com/20260514T170000_cancelled-arts-culture-commission-special-meeting/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-14T17:00:00-07:00</news:publication_date>
+      <news:title>20260514T170000 cancelled arts culture commission special meeting</news:title>
     </news:news>
   </url>
   <url>
