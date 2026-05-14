@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T15:17:16Z",
+  "generated_at": "2026-05-14T19:09:39Z",
   "runtime_mode": "live_runtime",
   "publish_window_days": 6,
   "pipeline": {
@@ -10,8 +10,8 @@
     },
     "published_articles": 7,
     "live_entries": 7,
-    "archive_entries": 44,
-    "archive_store_entries": 44
+    "archive_entries": 45,
+    "archive_store_entries": 45
   },
   "health": {
     "source_health_file": "/Users/charlesevans/vnews/data/source_health.json",
@@ -29,7 +29,7 @@
     }
   },
   "last_run": {
-    "run_at": "2026-05-14T15:17:16Z",
+    "run_at": "2026-05-14T19:09:39Z",
     "mode": "live_fetch",
     "status": "success",
     "notes": [
@@ -39,16 +39,6 @@
     "strict_health": false
   },
   "recent_runs": [
-    {
-      "run_at": "2026-05-14T11:00:49Z",
-      "mode": "live_fetch",
-      "status": "success",
-      "notes": [
-        "Fetch completed successfully."
-      ],
-      "fetch_mode": "live_fetch",
-      "strict_health": false
-    },
     {
       "run_at": "2026-05-14T12:00:50Z",
       "mode": "live_fetch",
@@ -88,6 +78,16 @@
       ],
       "fetch_mode": "live_fetch",
       "strict_health": false
+    },
+    {
+      "run_at": "2026-05-14T19:09:39Z",
+      "mode": "live_fetch",
+      "status": "success",
+      "notes": [
+        "Fetch completed successfully."
+      ],
+      "fetch_mode": "live_fetch",
+      "strict_health": false
     }
   ],
   "sources": [
@@ -102,12 +102,12 @@
       "fetched_count": 1,
       "normalized_count": 1,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-05-14T15:00:02Z",
-      "last_fetch_at_display": "2026-05-14 03:00 PM UTC",
-      "last_fetch_attempt_at": "2026-05-14T15:00:02Z",
-      "last_fetch_attempt_at_display": "2026-05-14 03:00 PM UTC",
-      "last_normalize_at": "2026-05-14T15:00:02Z",
-      "last_normalize_at_display": "2026-05-14 03:00 PM UTC",
+      "last_fetch_at": "2026-05-14T17:08:07Z",
+      "last_fetch_at_display": "2026-05-14 05:08 PM UTC",
+      "last_fetch_attempt_at": "2026-05-14T17:08:07Z",
+      "last_fetch_attempt_at_display": "2026-05-14 05:08 PM UTC",
+      "last_normalize_at": "2026-05-14T17:08:07Z",
+      "last_normalize_at_display": "2026-05-14 05:08 PM UTC",
       "last_fetch_error": "",
       "warnings": []
     },
@@ -122,12 +122,12 @@
       "fetched_count": 11,
       "normalized_count": 10,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-05-14T15:00:02Z",
-      "last_fetch_at_display": "2026-05-14 03:00 PM UTC",
-      "last_fetch_attempt_at": "2026-05-14T15:00:02Z",
-      "last_fetch_attempt_at_display": "2026-05-14 03:00 PM UTC",
-      "last_normalize_at": "2026-05-14T15:00:02Z",
-      "last_normalize_at_display": "2026-05-14 03:00 PM UTC",
+      "last_fetch_at": "2026-05-14T17:08:06Z",
+      "last_fetch_at_display": "2026-05-14 05:08 PM UTC",
+      "last_fetch_attempt_at": "2026-05-14T17:08:06Z",
+      "last_fetch_attempt_at_display": "2026-05-14 05:08 PM UTC",
+      "last_normalize_at": "2026-05-14T17:08:07Z",
+      "last_normalize_at_display": "2026-05-14 05:08 PM UTC",
       "last_fetch_error": "",
       "warnings": []
     }
