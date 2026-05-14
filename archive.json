@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260527T173000_planning-commission-meeting",
+    "url": "https://venturabuzz.com/20260527T173000_planning-commission-meeting/",
+    "headline": "Planning Commission Meeting Scheduled",
+    "body": "Planning Commission Meeting is scheduled for May 27, 2026 at 5:30 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-05-27 05:30 PM -07:00",
+    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6257",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260521T190000_east-ventura-community-council",
     "url": "https://venturabuzz.com/20260521T190000_east-ventura-community-council/",
     "headline": "East Ventura Community Council",
