@@ -45,4 +45,15 @@
       <news:title>20260519T170000 city council closed session regular meeting</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://venturabuzz.com/20260521T190000_east-ventura-community-council/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-05-21T19:00:00-07:00</news:publication_date>
+      <news:title>20260521T190000 east ventura community council</news:title>
+    </news:news>
+  </url>
 </urlset>
