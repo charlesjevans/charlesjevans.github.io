@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260611T153000_economic-development-subcommittee-meeting",
+    "url": "https://venturabuzz.com/20260611T153000_economic-development-subcommittee-meeting/",
+    "headline": "Economic Development Subcommittee",
+    "body": "Economic Development Subcommittee is scheduled for June 11, 2026 at 3:30 PM at Anacapa Meeting Room, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-06-11 03:30 PM -07:00",
+    "location": "Anacapa Meeting Room, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6761",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260608T150000_city-council-rules-subcommittee",
     "url": "https://venturabuzz.com/20260608T150000_city-council-rules-subcommittee/",
     "headline": "Rules Subcommittee",
