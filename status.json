@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T05:12:59Z",
+  "generated_at": "2026-05-26T09:01:52Z",
   "runtime_mode": "live_runtime",
   "publish_window_days": 6,
   "pipeline": {
@@ -29,7 +29,7 @@
     }
   },
   "last_run": {
-    "run_at": "2026-05-26T05:12:59Z",
+    "run_at": "2026-05-26T09:01:52Z",
     "mode": "live_fetch",
     "status": "success",
     "notes": [
@@ -39,16 +39,6 @@
     "strict_health": false
   },
   "recent_runs": [
-    {
-      "run_at": "2026-05-26T01:00:48Z",
-      "mode": "live_fetch",
-      "status": "success",
-      "notes": [
-        "Fetch completed successfully."
-      ],
-      "fetch_mode": "live_fetch",
-      "strict_health": false
-    },
     {
       "run_at": "2026-05-26T02:01:05Z",
       "mode": "live_fetch",
@@ -88,6 +78,16 @@
       ],
       "fetch_mode": "live_fetch",
       "strict_health": false
+    },
+    {
+      "run_at": "2026-05-26T09:01:52Z",
+      "mode": "live_fetch",
+      "status": "success",
+      "notes": [
+        "Fetch completed successfully."
+      ],
+      "fetch_mode": "live_fetch",
+      "strict_health": false
     }
   ],
   "sources": [
@@ -102,12 +102,12 @@
       "fetched_count": 3,
       "normalized_count": 3,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-05-26T05:00:30Z",
-      "last_fetch_at_display": "2026-05-26 05:00 AM UTC",
-      "last_fetch_attempt_at": "2026-05-26T05:00:30Z",
-      "last_fetch_attempt_at_display": "2026-05-26 05:00 AM UTC",
-      "last_normalize_at": "2026-05-26T05:00:30Z",
-      "last_normalize_at_display": "2026-05-26 05:00 AM UTC",
+      "last_fetch_at": "2026-05-26T09:00:56Z",
+      "last_fetch_at_display": "2026-05-26 09:00 AM UTC",
+      "last_fetch_attempt_at": "2026-05-26T09:00:56Z",
+      "last_fetch_attempt_at_display": "2026-05-26 09:00 AM UTC",
+      "last_normalize_at": "2026-05-26T09:00:57Z",
+      "last_normalize_at_display": "2026-05-26 09:00 AM UTC",
       "last_fetch_error": "",
       "warnings": []
     },
@@ -121,13 +121,13 @@
       "normalized_json": 5,
       "fetched_count": 7,
       "normalized_count": 5,
-      "fetch_attempts": 1,
-      "last_fetch_at": "2026-05-26T05:00:30Z",
-      "last_fetch_at_display": "2026-05-26 05:00 AM UTC",
-      "last_fetch_attempt_at": "2026-05-26T05:00:30Z",
-      "last_fetch_attempt_at_display": "2026-05-26 05:00 AM UTC",
-      "last_normalize_at": "2026-05-26T05:00:30Z",
-      "last_normalize_at_display": "2026-05-26 05:00 AM UTC",
+      "fetch_attempts": 2,
+      "last_fetch_at": "2026-05-26T09:00:52Z",
+      "last_fetch_at_display": "2026-05-26 09:00 AM UTC",
+      "last_fetch_attempt_at": "2026-05-26T09:00:52Z",
+      "last_fetch_attempt_at_display": "2026-05-26 09:00 AM UTC",
+      "last_normalize_at": "2026-05-26T09:00:57Z",
+      "last_normalize_at_display": "2026-05-26 09:00 AM UTC",
       "last_fetch_error": "",
       "warnings": []
     }
