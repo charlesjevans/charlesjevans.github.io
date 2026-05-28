@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260611T160000_historic-preservation-committee-meeting",
+    "url": "https://venturabuzz.com/20260611T160000_historic-preservation-committee-meeting/",
+    "headline": "Historic Preservation Committee Meeting Scheduled",
+    "body": "Historic Preservation Committee Meeting is scheduled for June 11, 2026 at 4:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-06-11 04:00 PM -07:00",
+    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6241",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260611T153000_economic-development-subcommittee-meeting",
     "url": "https://venturabuzz.com/20260611T153000_economic-development-subcommittee-meeting/",
     "headline": "Economic Development Subcommittee",
