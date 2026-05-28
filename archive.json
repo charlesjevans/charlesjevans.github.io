@@ -13,6 +13,19 @@
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   },
   {
+    "article_id": "20260610T183000_montalvo-community-council",
+    "url": "https://venturabuzz.com/20260610T183000_montalvo-community-council/",
+    "headline": "Montalvo Community Council",
+    "body": "Montalvo Community Council is scheduled for June 10, 2026 at 6:30 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-06-10 06:30 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6844",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260610T160000_parks-recreation-commission-regular-meeting",
     "url": "https://venturabuzz.com/20260610T160000_parks-recreation-commission-regular-meeting/",
     "headline": "Parks & Recreation Commission Regular Meeting Scheduled",
