@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260603T170000_design-review-committee-meeting-cancelled",
+    "url": "https://venturabuzz.com/20260603T170000_design-review-committee-meeting-cancelled/",
+    "headline": "Design Review Committee Meeting - Cancelled",
+    "body": "Design Review Committee Meeting - Cancelled is scheduled for June 3, 2026 at 5:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-06-03 05:00 PM -07:00",
+    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6090",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260602T170000_city-council-closed-session-regular-meeting",
     "url": "https://venturabuzz.com/20260602T170000_city-council-closed-session-regular-meeting/",
     "headline": "City Council Meeting Scheduled",
