@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260603T183000_westside-community-council",
+    "url": "https://venturabuzz.com/20260603T183000_westside-community-council/",
+    "headline": "Westside Community Council",
+    "body": "Westside Community Council is scheduled for June 3, 2026 at 6:30 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-06-03 06:30 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=4144",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260603T170000_design-review-committee-meeting-cancelled",
     "url": "https://venturabuzz.com/20260603T170000_design-review-committee-meeting-cancelled/",
     "headline": "Design Review Committee Meeting - Cancelled",
