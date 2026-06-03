@@ -91,6 +91,19 @@
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   },
   {
+    "article_id": "20260610T183000_montalvo-community-council",
+    "url": "https://venturabuzz.com/20260610T183000_montalvo-community-council/",
+    "headline": "Montalvo Community Council Meeting Scheduled",
+    "body": "The Montalvo Community Council will meet on June 10, 2026, from 6:30 PM to 8:30 PM in Ventura. Assistant Chief Matt Cain will provide updates on recent crime statistics and answer community questions. More details can be found on the council's website.",
+    "start": "2026-06-10 06:30 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6844",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260610T160000_parks-recreation-commission-regular-meeting",
     "url": "https://venturabuzz.com/20260610T160000_parks-recreation-commission-regular-meeting/",
     "headline": "Parks & Recreation Commission Regular Meeting Scheduled",
