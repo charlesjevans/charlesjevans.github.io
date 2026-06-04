@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://venturabuzz.com/20260604T093000_housing-rights-center-hrc-office-hours/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ventura Buzz</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-06-04T09:30:00-07:00</news:publication_date>
-      <news:title>20260604T093000 housing rights center hrc office hours</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://venturabuzz.com/20260608T150000_city-council-rules-subcommittee/</loc>
     <news:news>
       <news:publication>
@@ -21,6 +10,17 @@
       </news:publication>
       <news:publication_date>2026-06-08T15:00:00-07:00</news:publication_date>
       <news:title>20260608T150000 city council rules subcommittee</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://venturabuzz.com/20260609T093000_housing-rights-center-hrc-office-hours/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-09T09:30:00-07:00</news:publication_date>
+      <news:title>20260609T093000 housing rights center hrc office hours</news:title>
     </news:news>
   </url>
   <url>
