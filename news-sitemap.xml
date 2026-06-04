@@ -34,4 +34,15 @@
       <news:title>20260609T170000 city council closed session regular meeting</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://venturabuzz.com/20260610T160000_parks-recreation-commission-regular-meeting/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-10T16:00:00-07:00</news:publication_date>
+      <news:title>20260610T160000 parks recreation commission regular meeting</news:title>
+    </news:news>
+  </url>
 </urlset>
