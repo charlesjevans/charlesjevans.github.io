@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-08T21:01:00Z",
+  "generated_at": "2026-06-08T22:01:01Z",
   "runtime_mode": "live_runtime",
   "publish_window_days": 6,
   "pipeline": {
-    "editor_inbox": 14,
-    "editor_reviewed": 13,
+    "editor_inbox": 13,
+    "editor_reviewed": 12,
     "reviewed_status": {
-      "approve": 13
+      "approve": 12
     },
-    "published_articles": 9,
-    "live_entries": 9,
+    "published_articles": 8,
+    "live_entries": 8,
     "archive_entries": 68,
     "archive_store_entries": 68
   },
@@ -29,7 +29,7 @@
     }
   },
   "last_run": {
-    "run_at": "2026-06-08T21:01:00Z",
+    "run_at": "2026-06-08T22:01:01Z",
     "mode": "live_fetch",
     "status": "success",
     "notes": [
@@ -39,16 +39,6 @@
     "strict_health": false
   },
   "recent_runs": [
-    {
-      "run_at": "2026-06-08T07:01:03Z",
-      "mode": "live_fetch",
-      "status": "success",
-      "notes": [
-        "Fetch completed successfully."
-      ],
-      "fetch_mode": "live_fetch",
-      "strict_health": false
-    },
     {
       "run_at": "2026-06-08T08:01:07Z",
       "mode": "live_fetch",
@@ -88,6 +78,16 @@
       ],
       "fetch_mode": "live_fetch",
       "strict_health": false
+    },
+    {
+      "run_at": "2026-06-08T22:01:01Z",
+      "mode": "live_fetch",
+      "status": "success",
+      "notes": [
+        "Fetch completed successfully."
+      ],
+      "fetch_mode": "live_fetch",
+      "strict_health": false
     }
   ],
   "sources": [
@@ -97,17 +97,17 @@
       "active": true,
       "category": "calendar",
       "adapter": "adapters.ventura_city_feed",
-      "raw_ics": 3,
-      "normalized_json": 3,
-      "fetched_count": 3,
-      "normalized_count": 3,
+      "raw_ics": 2,
+      "normalized_json": 2,
+      "fetched_count": 2,
+      "normalized_count": 2,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-06-08T21:00:02Z",
-      "last_fetch_at_display": "2026-06-08 09:00 PM UTC",
-      "last_fetch_attempt_at": "2026-06-08T21:00:02Z",
-      "last_fetch_attempt_at_display": "2026-06-08 09:00 PM UTC",
-      "last_normalize_at": "2026-06-08T21:00:02Z",
-      "last_normalize_at_display": "2026-06-08 09:00 PM UTC",
+      "last_fetch_at": "2026-06-08T22:00:02Z",
+      "last_fetch_at_display": "2026-06-08 10:00 PM UTC",
+      "last_fetch_attempt_at": "2026-06-08T22:00:02Z",
+      "last_fetch_attempt_at_display": "2026-06-08 10:00 PM UTC",
+      "last_normalize_at": "2026-06-08T22:00:03Z",
+      "last_normalize_at_display": "2026-06-08 10:00 PM UTC",
       "last_fetch_error": "",
       "warnings": []
     },
@@ -117,17 +117,17 @@
       "active": true,
       "category": "calendar",
       "adapter": "adapters.main_calendar_feed",
-      "raw_ics": 12,
+      "raw_ics": 11,
       "normalized_json": 11,
-      "fetched_count": 12,
+      "fetched_count": 11,
       "normalized_count": 11,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-06-08T21:00:01Z",
-      "last_fetch_at_display": "2026-06-08 09:00 PM UTC",
-      "last_fetch_attempt_at": "2026-06-08T21:00:01Z",
-      "last_fetch_attempt_at_display": "2026-06-08 09:00 PM UTC",
-      "last_normalize_at": "2026-06-08T21:00:02Z",
-      "last_normalize_at_display": "2026-06-08 09:00 PM UTC",
+      "last_fetch_at": "2026-06-08T22:00:02Z",
+      "last_fetch_at_display": "2026-06-08 10:00 PM UTC",
+      "last_fetch_attempt_at": "2026-06-08T22:00:02Z",
+      "last_fetch_attempt_at_display": "2026-06-08 10:00 PM UTC",
+      "last_normalize_at": "2026-06-08T22:00:03Z",
+      "last_normalize_at_display": "2026-06-08 10:00 PM UTC",
       "last_fetch_error": "",
       "warnings": []
     }
