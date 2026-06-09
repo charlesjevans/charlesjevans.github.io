@@ -89,4 +89,15 @@
       <news:title>20260611T180000 midtown community council</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://venturabuzz.com/20260615T160000_director-s-hearing/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-15T16:00:00-07:00</news:publication_date>
+      <news:title>20260615T160000 director s hearing</news:title>
+    </news:news>
+  </url>
 </urlset>
