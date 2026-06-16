@@ -37,18 +37,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260616T160000_regular-meeting",
-    "url": "https://venturabuzz.com/20260616T160000_regular-meeting/",
-    "headline": "Regular Meeting Scheduled",
-    "body": "Regular Meeting is scheduled for June 16, 2026 at 4:00 PM at Ventura Avenue Adult Center 550 N. Ventura Avenue Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-06-16 04:00 PM -07:00",
-    "location": "Ventura Avenue Adult Center 550 N. Ventura Avenue Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6796",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
