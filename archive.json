@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260701T170000_design-review-committee-meeting",
+    "url": "https://venturabuzz.com/20260701T170000_design-review-committee-meeting/",
+    "headline": "Design Review Committee Meeting Scheduled",
+    "body": "Design Review Committee Meeting is scheduled for July 1, 2026 at 5:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-07-01 05:00 PM -07:00",
+    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6091",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260630T120000_250th-ventura-aquatic-center-pool-party",
     "url": "https://venturabuzz.com/20260630T120000_250th-ventura-aquatic-center-pool-party/",
     "headline": "250th: Ventura Aquatic Center Pool Party",
