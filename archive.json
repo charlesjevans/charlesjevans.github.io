@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260701T180000_250th-beachside-5k",
+    "url": "https://venturabuzz.com/20260701T180000_250th-beachside-5k/",
+    "headline": "250th: Beachside 5k",
+    "body": "250th: Beachside 5k is scheduled for July 1, 2026 at 6:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-07-01 06:00 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6933",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260701T170000_design-review-committee-meeting",
     "url": "https://venturabuzz.com/20260701T170000_design-review-committee-meeting/",
     "headline": "Design Review Committee Meeting Scheduled",
