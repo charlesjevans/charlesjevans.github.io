@@ -6,6 +6,13 @@
   <description>Ventura Buzz publication feed</description>
   <language>en-us</language>
   <item>
+    <title>City Council Meeting Scheduled</title>
+    <link>https://venturabuzz.com/20260707T170000_city-council-closed-session-regular-meeting/</link>
+    <guid>https://venturabuzz.com/20260707T170000_city-council-closed-session-regular-meeting/</guid>
+    <description>City Council Meeting is scheduled for July 7, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.</description>
+    <pubDate>Tue, 07 Jul 2026 17:00:00 -0700</pubDate>
+  </item>
+  <item>
     <title>250th: Music at Harbor &amp; Fireworks Downtown</title>
     <link>https://venturabuzz.com/20260703T130000_250th-music-at-harbor-fireworks-downtown/</link>
     <guid>https://venturabuzz.com/20260703T130000_250th-music-at-harbor-fireworks-downtown/</guid>
@@ -88,13 +95,6 @@
     <guid>https://venturabuzz.com/20260624T173000_planning-commission-meeting/</guid>
     <description>Planning Commission Meeting is scheduled for June 24, 2026 at 5:30 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.</description>
     <pubDate>Wed, 24 Jun 2026 17:30:00 -0700</pubDate>
-  </item>
-  <item>
-    <title>City Council Meeting Scheduled</title>
-    <link>https://venturabuzz.com/20260623T170000_city-council-closed-session-regular-meeting/</link>
-    <guid>https://venturabuzz.com/20260623T170000_city-council-closed-session-regular-meeting/</guid>
-    <description>City Council Meeting is scheduled for June 23, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.</description>
-    <pubDate>Tue, 23 Jun 2026 17:00:00 -0700</pubDate>
   </item>
 </channel>
 </rss>
