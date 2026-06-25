@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260709T160000_historic-preservation-committee-meeting",
+    "url": "https://venturabuzz.com/20260709T160000_historic-preservation-committee-meeting/",
+    "headline": "Historic Preservation Committee Meeting Scheduled",
+    "body": "Historic Preservation Committee Meeting is scheduled for July 9, 2026 at 4:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-07-09 04:00 PM -07:00",
+    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6242",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260708T160000_parks-recreation-commission-regular-meeting",
     "url": "https://venturabuzz.com/20260708T160000_parks-recreation-commission-regular-meeting/",
     "headline": "Parks & Recreation Commission Regular Meeting Scheduled",
