@@ -91,6 +91,19 @@
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   },
   {
+    "article_id": "20260701T140000_city-council-committee-reviewing-the-city-hall-east-boiler-project",
+    "url": "https://venturabuzz.com/20260701T140000_city-council-committee-reviewing-the-city-hall-east-boiler-project/",
+    "headline": "City Council Committee Reviewing the City Hall East Boiler Project",
+    "body": "City Council Committee Reviewing the City Hall East Boiler Project is scheduled for July 1, 2026 at 2:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-07-01 02:00 PM -07:00",
+    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6940",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260630T120000_250th-ventura-aquatic-center-pool-party",
     "url": "https://venturabuzz.com/20260630T120000_250th-ventura-aquatic-center-pool-party/",
     "headline": "250th: Ventura Aquatic Center Pool Party",
