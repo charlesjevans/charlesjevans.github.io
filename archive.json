@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260709T180000_midtown-community-council",
+    "url": "https://venturabuzz.com/20260709T180000_midtown-community-council/",
+    "headline": "Midtown Community Council",
+    "body": "Midtown Community Council is scheduled for July 9, 2026 at 6:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-07-09 06:00 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=4093",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260709T170000_arts-culture-commission-regular-meeting",
     "url": "https://venturabuzz.com/20260709T170000_arts-culture-commission-regular-meeting/",
     "headline": "Arts & Culture Commission Regular Meeting Scheduled",
@@ -124,6 +137,19 @@
     "start": "2026-07-01 02:00 PM -07:00",
     "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
     "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6940",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260630T170000_city-council-closed-session-special-meeting",
+    "url": "https://venturabuzz.com/20260630T170000_city-council-closed-session-special-meeting/",
+    "headline": "City Council Closed Session/Special Meeting Scheduled",
+    "body": "City Council Closed Session/Special Meeting is scheduled for June 30, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-06-30 05:00 PM -07:00",
+    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6941",
     "source_id": "ventura_city_calendar",
     "source_name": "Ventura City Calendar",
     "editor_decision": "approve",

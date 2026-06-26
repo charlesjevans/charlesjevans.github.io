@@ -57,6 +57,17 @@
     </news:news>
   </url>
   <url>
+    <loc>https://venturabuzz.com/20260630T170000_city-council-closed-session-special-meeting/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-06-30T17:00:00-07:00</news:publication_date>
+      <news:title>20260630T170000 city council closed session special meeting</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://venturabuzz.com/20260701T140000_city-council-committee-reviewing-the-city-hall-east-boiler-project/</loc>
     <news:news>
       <news:publication>
@@ -76,6 +87,17 @@
       </news:publication>
       <news:publication_date>2026-07-01T17:00:00-07:00</news:publication_date>
       <news:title>20260701T170000 design review committee meeting</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://venturabuzz.com/20260701T180000_250th-beachside-5k/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-01T18:00:00-07:00</news:publication_date>
+      <news:title>20260701T180000 250th beachside 5k</news:title>
     </news:news>
   </url>
 </urlset>
