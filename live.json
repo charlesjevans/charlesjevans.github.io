@@ -128,18 +128,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260627T090000_250th-beach-cleanups",
-    "url": "https://venturabuzz.com/20260627T090000_250th-beach-cleanups/",
-    "headline": "250th: Beach Cleanups",
-    "body": "250th: Beach Cleanups is scheduled for June 27, 2026 at 9:00 AM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-06-27 09:00 AM -07:00",
-    "location": "Ventura, CA 93002",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6929",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
