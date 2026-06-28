@@ -128,18 +128,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260628T110000_250th-autism-rocks-car-show",
-    "url": "https://venturabuzz.com/20260628T110000_250th-autism-rocks-car-show/",
-    "headline": "250th: Autism Rocks Car Show",
-    "body": "250th: Autism Rocks Car Show is scheduled for June 28, 2026 at 11:00 AM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-06-28 11:00 AM -07:00",
-    "location": "Ventura, CA 93002",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6930",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
