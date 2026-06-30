@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260713T180000_informational-session-for-potential-city-council-candidates",
+    "url": "https://venturabuzz.com/20260713T180000_informational-session-for-potential-city-council-candidates/",
+    "headline": "Informational Session for Potential City Council Candidates Scheduled",
+    "body": "Informational Session for Potential City Council Candidates is scheduled for July 13, 2026 at 6:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-07-13 06:00 PM -07:00",
+    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6938",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260709T180000_midtown-community-council",
     "url": "https://venturabuzz.com/20260709T180000_midtown-community-council/",
     "headline": "Midtown Community Council",
