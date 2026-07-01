@@ -89,18 +89,5 @@
     "source_name": "Ventura City Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260630T170000_city-council-closed-session-special-meeting",
-    "url": "https://venturabuzz.com/20260630T170000_city-council-closed-session-special-meeting/",
-    "headline": "City Council Closed Session/Special Meeting Scheduled",
-    "body": "City Council Closed Session/Special Meeting is scheduled for June 30, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.",
-    "start": "2026-06-30 05:00 PM -07:00",
-    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6941",
-    "source_id": "ventura_city_calendar",
-    "source_name": "Ventura City Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
