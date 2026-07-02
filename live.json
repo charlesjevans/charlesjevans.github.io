@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260707T170000_city-council-closed-session-regular-meeting",
+    "url": "https://venturabuzz.com/20260707T170000_city-council-closed-session-regular-meeting/",
+    "headline": "City Council Meeting Scheduled",
+    "body": "City Council Meeting is scheduled for July 7, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-07-07 05:00 PM -07:00",
+    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6201",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260703T130000_250th-music-at-harbor-fireworks-downtown",
     "url": "https://venturabuzz.com/20260703T130000_250th-music-at-harbor-fireworks-downtown/",
     "headline": "250th: Music at Harbor & Fireworks Downtown",
@@ -59,19 +72,6 @@
     "start": "2026-07-01 06:00 PM -07:00",
     "location": "Ventura, CA 93002",
     "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6933",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260701T170000_design-review-committee-meeting",
-    "url": "https://venturabuzz.com/20260701T170000_design-review-committee-meeting/",
-    "headline": "Design Review Committee Meeting Scheduled",
-    "body": "Design Review Committee Meeting is scheduled for July 1, 2026 at 5:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-07-01 05:00 PM -07:00",
-    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6091",
     "source_id": "ventura_main_calendar",
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
