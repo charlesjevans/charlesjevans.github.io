@@ -37,18 +37,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260703T130000_250th-music-at-harbor-fireworks-downtown",
-    "url": "https://venturabuzz.com/20260703T130000_250th-music-at-harbor-fireworks-downtown/",
-    "headline": "250th: Music at Harbor & Fireworks Downtown",
-    "body": "250th: Music at Harbor & Fireworks Downtown is scheduled for July 3, 2026 at 1:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-07-03 01:00 PM -07:00",
-    "location": "Ventura, CA 93002",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6935",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
