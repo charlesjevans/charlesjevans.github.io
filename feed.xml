@@ -6,6 +6,13 @@
   <description>Ventura Buzz publication feed</description>
   <language>en-us</language>
   <item>
+    <title>Design Review Committee Special Meeting Scheduled</title>
+    <link>https://venturabuzz.com/20260721T170000_design-review-committee-special-meeting/</link>
+    <guid>https://venturabuzz.com/20260721T170000_design-review-committee-special-meeting/</guid>
+    <description>Design Review Committee Special Meeting is scheduled for July 21, 2026 at 5:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source did not provide additional background.</description>
+    <pubDate>Tue, 21 Jul 2026 17:00:00 -0700</pubDate>
+  </item>
+  <item>
     <title>Director's Hearing</title>
     <link>https://venturabuzz.com/20260720T160000_director-s-hearing/</link>
     <guid>https://venturabuzz.com/20260720T160000_director-s-hearing/</guid>
@@ -18,6 +25,13 @@
     <guid>https://venturabuzz.com/20260716T190000_east-ventura-community-council/</guid>
     <description>East Ventura Community Council is scheduled for July 16, 2026 at 7:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.</description>
     <pubDate>Thu, 16 Jul 2026 19:00:00 -0700</pubDate>
+  </item>
+  <item>
+    <title>City Council Meeting Scheduled</title>
+    <link>https://venturabuzz.com/20260714T170000_city-council-closed-session-regular-meeting/</link>
+    <guid>https://venturabuzz.com/20260714T170000_city-council-closed-session-regular-meeting/</guid>
+    <description>City Council Meeting is scheduled for July 14, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.</description>
+    <pubDate>Tue, 14 Jul 2026 17:00:00 -0700</pubDate>
   </item>
   <item>
     <title>Informational Session for Potential City Council Candidates Scheduled</title>
@@ -60,13 +74,6 @@
     <guid>https://venturabuzz.com/20260708T160000_parks-recreation-commission-regular-meeting/</guid>
     <description>Parks &amp; Recreation Commission Regular Meeting is scheduled for July 8, 2026 at 4:00 PM at Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001. The source did not provide additional background.</description>
     <pubDate>Wed, 08 Jul 2026 16:00:00 -0700</pubDate>
-  </item>
-  <item>
-    <title>City Council Meeting Scheduled</title>
-    <link>https://venturabuzz.com/20260707T170000_city-council-closed-session-regular-meeting/</link>
-    <guid>https://venturabuzz.com/20260707T170000_city-council-closed-session-regular-meeting/</guid>
-    <description>City Council Meeting is scheduled for July 7, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.</description>
-    <pubDate>Tue, 07 Jul 2026 17:00:00 -0700</pubDate>
   </item>
 </channel>
 </rss>
