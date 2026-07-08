@@ -56,4 +56,15 @@
       <news:title>20260709T180000 midtown community council</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://venturabuzz.com/20260713T180000_informational-session-for-potential-city-council-candidates/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-07-13T18:00:00-07:00</news:publication_date>
+      <news:title>20260713T180000 informational session for potential city council candidates</news:title>
+    </news:news>
+  </url>
 </urlset>
