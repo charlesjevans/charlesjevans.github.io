@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260714T170000_city-council-closed-session-regular-meeting",
+    "url": "https://venturabuzz.com/20260714T170000_city-council-closed-session-regular-meeting/",
+    "headline": "City Council Meeting Scheduled",
+    "body": "City Council Meeting is scheduled for July 14, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-07-14 05:00 PM -07:00",
+    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6202",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260713T180000_informational-session-for-potential-city-council-candidates",
     "url": "https://venturabuzz.com/20260713T180000_informational-session-for-potential-city-council-candidates/",
     "headline": "Informational Session for Potential City Council Candidates Scheduled",
