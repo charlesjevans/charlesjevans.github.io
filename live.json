@@ -50,18 +50,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260709T170000_arts-culture-commission-regular-meeting",
-    "url": "https://venturabuzz.com/20260709T170000_arts-culture-commission-regular-meeting/",
-    "headline": "Arts & Culture Commission Regular Meeting Scheduled",
-    "body": "Arts & Culture Commission Regular Meeting is scheduled for July 9, 2026 at 5:00 PM at Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001. The source did not provide additional background.",
-    "start": "2026-07-09 05:00 PM -07:00",
-    "location": "Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6724",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
