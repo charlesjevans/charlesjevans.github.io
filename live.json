@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260721T170000_design-review-committee-special-meeting",
+    "url": "https://venturabuzz.com/20260721T170000_design-review-committee-special-meeting/",
+    "headline": "Design Review Committee Special Meeting Scheduled",
+    "body": "Design Review Committee Special Meeting is scheduled for July 21, 2026 at 5:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-07-21 05:00 PM -07:00",
+    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6942",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260720T160000_director-s-hearing",
     "url": "https://venturabuzz.com/20260720T160000_director-s-hearing/",
     "headline": "Director's Hearing",
