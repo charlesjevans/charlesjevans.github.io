@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260725T083000_junk-drop-off-event",
+    "url": "https://venturabuzz.com/20260725T083000_junk-drop-off-event/",
+    "headline": "Junk Drop Off Event",
+    "body": "Junk Drop Off Event is scheduled for July 25, 2026 at 8:30 AM at San Jon Yard, 336 San Jon Rd Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-07-25 08:30 AM -07:00",
+    "location": "San Jon Yard, 336 San Jon Rd Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6936",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260722T190000_college-area-community-council",
     "url": "https://venturabuzz.com/20260722T190000_college-area-community-council/",
     "headline": "College Area Community Council",
