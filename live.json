@@ -37,18 +37,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260722T190000_college-area-community-council",
-    "url": "https://venturabuzz.com/20260722T190000_college-area-community-council/",
-    "headline": "College Area Community Council",
-    "body": "College Area Community Council is scheduled for July 22, 2026 at 7:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-07-22 07:00 PM -07:00",
-    "location": "Ventura, CA 93002",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=4132",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
