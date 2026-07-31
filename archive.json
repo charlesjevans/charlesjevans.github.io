@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260820T153000_economic-development-subcommittee-meeting",
+    "url": "https://venturabuzz.com/20260820T153000_economic-development-subcommittee-meeting/",
+    "headline": "Economic Development Subcommittee",
+    "body": "Economic Development Subcommittee is scheduled for August 20, 2026 at 3:30 PM at Anacapa Meeting Room, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-08-20 03:30 PM -07:00",
+    "location": "Anacapa Meeting Room, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6762",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260818T170000_city-council-closed-session-regular-meeting",
     "url": "https://venturabuzz.com/20260818T170000_city-council-closed-session-regular-meeting/",
     "headline": "City Council Meeting Scheduled",
@@ -9,6 +22,45 @@
     "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6203",
     "source_id": "ventura_city_calendar",
     "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260813T190000_midtown-community-council",
+    "url": "https://venturabuzz.com/20260813T190000_midtown-community-council/",
+    "headline": "Midtown Community Council",
+    "body": "Midtown Community Council is scheduled for August 13, 2026 at 7:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-08-13 07:00 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=4094",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260813T170000_arts-culture-commission-regular-meeting",
+    "url": "https://venturabuzz.com/20260813T170000_arts-culture-commission-regular-meeting/",
+    "headline": "Arts & Culture Commission Regular Meeting Scheduled",
+    "body": "Arts & Culture Commission Regular Meeting is scheduled for August 13, 2026 at 5:00 PM at Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-08-13 05:00 PM -07:00",
+    "location": "Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6725",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260813T160000_historic-preservation-committee-meeting",
+    "url": "https://venturabuzz.com/20260813T160000_historic-preservation-committee-meeting/",
+    "headline": "Historic Preservation Committee Meeting Scheduled",
+    "body": "Historic Preservation Committee Meeting is scheduled for August 13, 2026 at 4:00 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source did not provide additional background.",
+    "start": "2026-08-13 04:00 PM -07:00",
+    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6243",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   },
