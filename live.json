@@ -37,18 +37,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260803T173000_cancelled-measure-o-citizens-oversight-committee-regular-meeting",
-    "url": "https://venturabuzz.com/20260803T173000_cancelled-measure-o-citizens-oversight-committee-regular-meeting/",
-    "headline": "CANCELLED - Measure O Citizens Oversight Committee, Regular Meeting",
-    "body": "CANCELLED - Measure O Citizens Oversight Committee, Regular Meeting is scheduled for August 3, 2026 at 5:30 PM at Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001. The source did not provide additional background.",
-    "start": "2026-08-03 05:30 PM -07:00",
-    "location": "Community Meeting Room, 501 Poli St., 2nd Floor, Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6944",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
