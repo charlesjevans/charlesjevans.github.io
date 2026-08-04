@@ -34,4 +34,15 @@
       <news:title>20260806T093000 housing rights center hrc office hours</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://venturabuzz.com/20260810T120000_grant-information-session-q-a/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-10T12:00:00-07:00</news:publication_date>
+      <news:title>20260810T120000 grant information session q a</news:title>
+    </news:news>
+  </url>
 </urlset>
