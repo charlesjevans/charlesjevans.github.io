@@ -1,5 +1,31 @@
 [
   {
+    "article_id": "20260812T183000_montalvo-community-council",
+    "url": "https://venturabuzz.com/20260812T183000_montalvo-community-council/",
+    "headline": "Montalvo Community Council",
+    "body": "Montalvo Community Council is scheduled for August 12, 2026 at 6:30 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-08-12 06:30 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6845",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
+    "article_id": "20260811T093000_housing-rights-center-hrc-office-hours",
+    "url": "https://venturabuzz.com/20260811T093000_housing-rights-center-hrc-office-hours/",
+    "headline": "Housing Rights Center (HRC) Office Hours Scheduled",
+    "body": "Housing Rights Center (HRC) Office Hours is scheduled for August 11, 2026 at 9:30 AM at Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m.",
+    "start": "2026-08-11 09:30 AM -07:00",
+    "location": "Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m. – 1:00 p.m. Room 124 – Community Development Conference Room from 1:00 p.m. – 5:00 p.m, 501 Poli Street Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6056",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260810T120000_grant-information-session-q-a",
     "url": "https://venturabuzz.com/20260810T120000_grant-information-session-q-a/",
     "headline": "Grant Information Session + Q&A Scheduled",
@@ -7,19 +33,6 @@
     "start": "2026-08-10 12:00 PM -07:00",
     "location": "Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001",
     "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6945",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260806T093000_housing-rights-center-hrc-office-hours",
-    "url": "https://venturabuzz.com/20260806T093000_housing-rights-center-hrc-office-hours/",
-    "headline": "Housing Rights Center (HRC) Office Hours Scheduled",
-    "body": "Housing Rights Center (HRC) Office Hours is scheduled for August 6, 2026 at 9:30 AM at Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m.",
-    "start": "2026-08-06 09:30 AM -07:00",
-    "location": "Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m. – 1:00 p.m. Room 124 – Community Development Conference Room from 1:00 p.m. – 5:00 p.m, 501 Poli Street Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6055",
     "source_id": "ventura_main_calendar",
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
