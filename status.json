@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-08-13T22:01:20Z",
+  "generated_at": "2026-08-13T23:01:18Z",
   "runtime_mode": "live_runtime",
   "publish_window_days": 6,
   "pipeline": {
-    "editor_inbox": 16,
-    "editor_reviewed": 15,
+    "editor_inbox": 15,
+    "editor_reviewed": 14,
     "reviewed_status": {
-      "approve": 15
+      "approve": 14
     },
-    "published_articles": 7,
-    "live_entries": 7,
+    "published_articles": 6,
+    "live_entries": 6,
     "archive_entries": 138,
     "archive_store_entries": 138
   },
@@ -29,7 +29,7 @@
     }
   },
   "last_run": {
-    "run_at": "2026-08-13T22:01:20Z",
+    "run_at": "2026-08-13T23:01:18Z",
     "mode": "live_fetch",
     "status": "success",
     "notes": [
@@ -39,16 +39,6 @@
     "strict_health": false
   },
   "recent_runs": [
-    {
-      "run_at": "2026-08-13T18:01:22Z",
-      "mode": "live_fetch",
-      "status": "success",
-      "notes": [
-        "Fetch completed successfully."
-      ],
-      "fetch_mode": "live_fetch",
-      "strict_health": false
-    },
     {
       "run_at": "2026-08-13T19:01:24Z",
       "mode": "live_fetch",
@@ -88,6 +78,16 @@
       ],
       "fetch_mode": "live_fetch",
       "strict_health": false
+    },
+    {
+      "run_at": "2026-08-13T23:01:18Z",
+      "mode": "live_fetch",
+      "status": "success",
+      "notes": [
+        "Fetch completed successfully."
+      ],
+      "fetch_mode": "live_fetch",
+      "strict_health": false
     }
   ],
   "sources": [
@@ -102,12 +102,12 @@
       "fetched_count": 2,
       "normalized_count": 2,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-08-13T22:00:02Z",
-      "last_fetch_at_display": "2026-08-13 10:00 PM UTC",
-      "last_fetch_attempt_at": "2026-08-13T22:00:02Z",
-      "last_fetch_attempt_at_display": "2026-08-13 10:00 PM UTC",
-      "last_normalize_at": "2026-08-13T22:00:02Z",
-      "last_normalize_at_display": "2026-08-13 10:00 PM UTC",
+      "last_fetch_at": "2026-08-13T23:00:02Z",
+      "last_fetch_at_display": "2026-08-13 11:00 PM UTC",
+      "last_fetch_attempt_at": "2026-08-13T23:00:02Z",
+      "last_fetch_attempt_at_display": "2026-08-13 11:00 PM UTC",
+      "last_normalize_at": "2026-08-13T23:00:03Z",
+      "last_normalize_at_display": "2026-08-13 11:00 PM UTC",
       "last_fetch_error": "",
       "warnings": []
     },
@@ -117,17 +117,17 @@
       "active": true,
       "category": "calendar",
       "adapter": "adapters.main_calendar_feed",
-      "raw_ics": 13,
-      "normalized_json": 13,
-      "fetched_count": 13,
-      "normalized_count": 13,
+      "raw_ics": 12,
+      "normalized_json": 12,
+      "fetched_count": 12,
+      "normalized_count": 12,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-08-13T22:00:01Z",
-      "last_fetch_at_display": "2026-08-13 10:00 PM UTC",
-      "last_fetch_attempt_at": "2026-08-13T22:00:01Z",
-      "last_fetch_attempt_at_display": "2026-08-13 10:00 PM UTC",
-      "last_normalize_at": "2026-08-13T22:00:02Z",
-      "last_normalize_at_display": "2026-08-13 10:00 PM UTC",
+      "last_fetch_at": "2026-08-13T23:00:02Z",
+      "last_fetch_at_display": "2026-08-13 11:00 PM UTC",
+      "last_fetch_attempt_at": "2026-08-13T23:00:02Z",
+      "last_fetch_attempt_at_display": "2026-08-13 11:00 PM UTC",
+      "last_normalize_at": "2026-08-13T23:00:03Z",
+      "last_normalize_at_display": "2026-08-13 11:00 PM UTC",
       "last_fetch_error": "",
       "warnings": []
     }
