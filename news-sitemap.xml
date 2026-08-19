@@ -56,4 +56,15 @@
       <news:title>20260820T190000 pierpont community council</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://venturabuzz.com/20260824T173000_water-commission-regular-meeting-cancelled/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-08-24T17:30:00-07:00</news:publication_date>
+      <news:title>20260824T173000 water commission regular meeting cancelled</news:title>
+    </news:news>
+  </url>
 </urlset>
