@@ -6,6 +6,13 @@
   <description>Ventura Buzz publication feed</description>
   <language>en-us</language>
   <item>
+    <title>City Council Meeting Scheduled</title>
+    <link>https://venturabuzz.com/20260915T170000_city-council-closed-session-regular-meeting/</link>
+    <guid>https://venturabuzz.com/20260915T170000_city-council-closed-session-regular-meeting/</guid>
+    <description>City Council Meeting is scheduled for September 15, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.</description>
+    <pubDate>Tue, 15 Sep 2026 17:00:00 -0700</pubDate>
+  </item>
+  <item>
     <title>Rules Subcommittee</title>
     <link>https://venturabuzz.com/20260914T150000_city-council-rules-subcommittee/</link>
     <guid>https://venturabuzz.com/20260914T150000_city-council-rules-subcommittee/</guid>
@@ -46,13 +53,6 @@
     <guid>https://venturabuzz.com/20260826T173000_planning-commission-meeting/</guid>
     <description>Planning Commission Meeting is scheduled for August 26, 2026 at 5:30 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source did not provide additional background.</description>
     <pubDate>Wed, 26 Aug 2026 17:30:00 -0700</pubDate>
-  </item>
-  <item>
-    <title>City Council Meeting Scheduled</title>
-    <link>https://venturabuzz.com/20260825T170000_city-council-closed-session-regular-meeting/</link>
-    <guid>https://venturabuzz.com/20260825T170000_city-council-closed-session-regular-meeting/</guid>
-    <description>City Council Meeting is scheduled for August 25, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.</description>
-    <pubDate>Tue, 25 Aug 2026 17:00:00 -0700</pubDate>
   </item>
 </channel>
 </rss>

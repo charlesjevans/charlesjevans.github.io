@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:00:42Z",
+  "generated_at": "2026-08-26T00:00:46Z",
   "runtime_mode": "live_runtime",
   "publish_window_days": 6,
   "pipeline": {
@@ -8,10 +8,10 @@
     "reviewed_status": {
       "approve": 7
     },
-    "published_articles": 4,
-    "live_entries": 4,
-    "archive_entries": 144,
-    "archive_store_entries": 144
+    "published_articles": 3,
+    "live_entries": 3,
+    "archive_entries": 145,
+    "archive_store_entries": 145
   },
   "health": {
     "source_health_file": "/Users/charlesevans/vnews/data/source_health.json",
@@ -29,7 +29,7 @@
     }
   },
   "last_run": {
-    "run_at": "2026-08-25T23:00:42Z",
+    "run_at": "2026-08-26T00:00:46Z",
     "mode": "live_fetch",
     "status": "success",
     "notes": [
@@ -39,16 +39,6 @@
     "strict_health": false
   },
   "recent_runs": [
-    {
-      "run_at": "2026-08-25T19:00:45Z",
-      "mode": "live_fetch",
-      "status": "success",
-      "notes": [
-        "Fetch completed successfully."
-      ],
-      "fetch_mode": "live_fetch",
-      "strict_health": false
-    },
     {
       "run_at": "2026-08-25T20:00:44Z",
       "mode": "live_fetch",
@@ -88,6 +78,16 @@
       ],
       "fetch_mode": "live_fetch",
       "strict_health": false
+    },
+    {
+      "run_at": "2026-08-26T00:00:46Z",
+      "mode": "live_fetch",
+      "status": "success",
+      "notes": [
+        "Fetch completed successfully."
+      ],
+      "fetch_mode": "live_fetch",
+      "strict_health": false
     }
   ],
   "sources": [
@@ -102,12 +102,12 @@
       "fetched_count": 2,
       "normalized_count": 2,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-08-25T23:00:02Z",
-      "last_fetch_at_display": "2026-08-25 11:00 PM UTC",
-      "last_fetch_attempt_at": "2026-08-25T23:00:02Z",
-      "last_fetch_attempt_at_display": "2026-08-25 11:00 PM UTC",
-      "last_normalize_at": "2026-08-25T23:00:03Z",
-      "last_normalize_at_display": "2026-08-25 11:00 PM UTC",
+      "last_fetch_at": "2026-08-26T00:00:02Z",
+      "last_fetch_at_display": "2026-08-26 12:00 AM UTC",
+      "last_fetch_attempt_at": "2026-08-26T00:00:02Z",
+      "last_fetch_attempt_at_display": "2026-08-26 12:00 AM UTC",
+      "last_normalize_at": "2026-08-26T00:00:02Z",
+      "last_normalize_at_display": "2026-08-26 12:00 AM UTC",
       "last_fetch_error": "",
       "warnings": []
     },
@@ -117,17 +117,17 @@
       "active": true,
       "category": "calendar",
       "adapter": "adapters.main_calendar_feed",
-      "raw_ics": 6,
+      "raw_ics": 5,
       "normalized_json": 5,
-      "fetched_count": 6,
+      "fetched_count": 5,
       "normalized_count": 5,
       "fetch_attempts": 1,
-      "last_fetch_at": "2026-08-25T23:00:02Z",
-      "last_fetch_at_display": "2026-08-25 11:00 PM UTC",
-      "last_fetch_attempt_at": "2026-08-25T23:00:02Z",
-      "last_fetch_attempt_at_display": "2026-08-25 11:00 PM UTC",
-      "last_normalize_at": "2026-08-25T23:00:03Z",
-      "last_normalize_at_display": "2026-08-25 11:00 PM UTC",
+      "last_fetch_at": "2026-08-26T00:00:02Z",
+      "last_fetch_at_display": "2026-08-26 12:00 AM UTC",
+      "last_fetch_attempt_at": "2026-08-26T00:00:02Z",
+      "last_fetch_attempt_at_display": "2026-08-26 12:00 AM UTC",
+      "last_normalize_at": "2026-08-26T00:00:02Z",
+      "last_normalize_at_display": "2026-08-26 12:00 AM UTC",
       "last_fetch_error": "",
       "warnings": []
     }
