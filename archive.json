@@ -26,6 +26,19 @@
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   },
   {
+    "article_id": "20260910T190000_midtown-community-council",
+    "url": "https://venturabuzz.com/20260910T190000_midtown-community-council/",
+    "headline": "Midtown Community Council",
+    "body": "Midtown Community Council is scheduled for September 10, 2026 at 7:00 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-09-10 07:00 PM -07:00",
+    "location": "Ventura, CA 93002",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=4095",
+    "source_id": "ventura_main_calendar",
+    "source_name": "Ventura Main Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260910T170000_arts-culture-commission-regular-meeting",
     "url": "https://venturabuzz.com/20260910T170000_arts-culture-commission-regular-meeting/",
     "headline": "Arts & Culture Commission Regular Meeting Scheduled",
