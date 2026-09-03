@@ -11,18 +11,5 @@
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",
     "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260902T183000_westside-community-council",
-    "url": "https://venturabuzz.com/20260902T183000_westside-community-council/",
-    "headline": "Westside Community Council",
-    "body": "Westside Community Council is scheduled for September 2, 2026 at 6:30 PM at Ventura, CA 93002. The source listing provides the public with the time and location for the Ventura event.",
-    "start": "2026-09-02 06:30 PM -07:00",
-    "location": "Ventura, CA 93002",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=4147",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
   }
 ]
