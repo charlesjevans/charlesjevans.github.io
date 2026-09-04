@@ -23,4 +23,15 @@
       <news:title>20260909T160000 parks recreation commission regular meeting</news:title>
     </news:news>
   </url>
+  <url>
+    <loc>https://venturabuzz.com/20260910T160000_historic-preservation-committee-meeting/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-10T16:00:00-07:00</news:publication_date>
+      <news:title>20260910T160000 historic preservation committee meeting</news:title>
+    </news:news>
+  </url>
 </urlset>
