@@ -1,5 +1,18 @@
 [
   {
+    "article_id": "20260915T170000_city-council-closed-session-regular-meeting",
+    "url": "https://venturabuzz.com/20260915T170000_city-council-closed-session-regular-meeting/",
+    "headline": "City Council Meeting Scheduled",
+    "body": "City Council Meeting is scheduled for September 15, 2026 at 5:00 PM at City Council Chambers, 501 Poli St., Ventura, CA 93001. The source listing provides the public with the time and location for the Ventura event.",
+    "start": "2026-09-15 05:00 PM -07:00",
+    "location": "City Council Chambers, 501 Poli St., Ventura, CA 93001",
+    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6205",
+    "source_id": "ventura_city_calendar",
+    "source_name": "Ventura City Calendar",
+    "editor_decision": "approve",
+    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
+  },
+  {
     "article_id": "20260914T160000_director-s-hearing",
     "url": "https://venturabuzz.com/20260914T160000_director-s-hearing/",
     "headline": "Director's Hearing",
@@ -72,19 +85,6 @@
     "start": "2026-09-10 09:30 AM -07:00",
     "location": "Tuesdays: Anacapa Conference Room from 9:30 a.m. – 5:00 p.m. Thursdays: Anacapa Conference Room from 9:30 a.m. – 1:00 p.m. Room 124 – Community Development Conference Room from 1:00 p.m. – 5:00 p.m, 501 Poli Street Ventura, CA 93001",
     "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6065",
-    "source_id": "ventura_main_calendar",
-    "source_name": "Ventura Main Calendar",
-    "editor_decision": "approve",
-    "editor_summary": "Rule-based fallback review used because OpenAI was unavailable."
-  },
-  {
-    "article_id": "20260909T160000_parks-recreation-commission-regular-meeting",
-    "url": "https://venturabuzz.com/20260909T160000_parks-recreation-commission-regular-meeting/",
-    "headline": "Parks & Recreation Commission Regular Meeting Scheduled",
-    "body": "Parks & Recreation Commission Regular Meeting is scheduled for September 9, 2026 at 4:00 PM at Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001. The source did not provide additional background.",
-    "start": "2026-09-09 04:00 PM -07:00",
-    "location": "Santa Cruz Meeting Room, 501 Poli St. Ventura, CA 93001",
-    "source_url": "https://www.cityofventura.ca.gov/calendar.aspx?EID=6738",
     "source_id": "ventura_main_calendar",
     "source_name": "Ventura Main Calendar",
     "editor_decision": "approve",

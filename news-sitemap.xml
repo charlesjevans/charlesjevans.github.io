@@ -2,17 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
-    <loc>https://venturabuzz.com/20260909T160000_parks-recreation-commission-regular-meeting/</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Ventura Buzz</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-09-09T16:00:00-07:00</news:publication_date>
-      <news:title>20260909T160000 parks recreation commission regular meeting</news:title>
-    </news:news>
-  </url>
-  <url>
     <loc>https://venturabuzz.com/20260910T093000_housing-rights-center-hrc-office-hours/</loc>
     <news:news>
       <news:publication>
@@ -76,6 +65,17 @@
       </news:publication>
       <news:publication_date>2026-09-14T16:00:00-07:00</news:publication_date>
       <news:title>20260914T160000 director s hearing</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://venturabuzz.com/20260915T170000_city-council-closed-session-regular-meeting/</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Ventura Buzz</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-09-15T17:00:00-07:00</news:publication_date>
+      <news:title>20260915T170000 city council closed session regular meeting</news:title>
     </news:news>
   </url>
 </urlset>
